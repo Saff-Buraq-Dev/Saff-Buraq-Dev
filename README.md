@@ -35,6 +35,9 @@ As a computer science student, I have a strong foundation in programming and a p
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
+<br/>
 
 <!--
 **Saff-Buraq-Dev/Saff-Buraq-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
