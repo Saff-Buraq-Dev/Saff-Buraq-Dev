@@ -32,7 +32,6 @@ As a computer science student, I have a strong foundation in programming and a p
 
 ---
 
-### ✨ My Recent Activity
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
