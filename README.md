@@ -35,11 +35,7 @@ As a computer science student, I have a strong foundation in programming and a p
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/Saff-Buraq-Dev](https://github.com/Saff-Buraq-Dev/Saff-Buraq-Dev)<br>
-2. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/Saff-Buraq-Dev](https://github.com/Saff-Buraq-Dev/Saff-Buraq-Dev)<br>
-3. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/Saff-Buraq-Dev](https://github.com/Saff-Buraq-Dev/Saff-Buraq-Dev)<br>
-4. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/Saff-Buraq-Dev](https://github.com/Saff-Buraq-Dev/Saff-Buraq-Dev)<br>
-5. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/Saff-Buraq-Dev](https://github.com/Saff-Buraq-Dev/Saff-Buraq-Dev)<br>
+
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
