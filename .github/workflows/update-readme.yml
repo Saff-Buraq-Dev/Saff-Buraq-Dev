@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: "config-update"
+          CONFIG_FILE: "config-update.yml"
