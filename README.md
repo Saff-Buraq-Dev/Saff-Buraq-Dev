@@ -37,7 +37,6 @@ As a computer science student, I have a strong foundation in programming and a p
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
 2. ⭐ Starred [ArmandBriere/Archy](https://github.com/ArmandBriere/Archy)<br>
-3. 📔 Created new repository [Saff-Buraq-Dev/theme-park-frontend](https://github.com/Saff-Buraq-Dev/theme-park-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
