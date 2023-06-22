@@ -36,7 +36,6 @@ As a computer science student, I have a strong foundation in programming and a p
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-2. ⭐ Starred [ArmandBriere/Archy](https://github.com/ArmandBriere/Archy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
