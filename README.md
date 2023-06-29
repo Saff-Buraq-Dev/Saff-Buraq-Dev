@@ -35,6 +35,7 @@ As a computer science student, I have a strong foundation in programming and a p
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [Saff-Buraq-Dev/awscfncli](https://github.com/Saff-Buraq-Dev/awscfncli) from [Kotaimen/awscfncli](https://github.com/Kotaimen/awscfncli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
