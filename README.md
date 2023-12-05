@@ -39,7 +39,6 @@ As a computer science student, I have a strong foundation in programming and a p
 2. 💬 Commented on [#66](https://github.com/aws-samples/aws-health-aware/issues/66#issuecomment-1719801750) in [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware)<br>
 3. 💬 Commented on [#66](https://github.com/aws-samples/aws-health-aware/issues/66#issuecomment-1719801089) in [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware)<br>
 4. ❗️ Opened issue [#2868](https://github.com/aws-cloudformation/cfn-lint/issues/2868) in [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint)<br>
-5. ❌ Closed PR [#1](https://github.com/jacquesberger/exemples-developpement-web/pull/1) in [jacquesberger/exemples-developpement-web](https://github.com/jacquesberger/exemples-developpement-web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
