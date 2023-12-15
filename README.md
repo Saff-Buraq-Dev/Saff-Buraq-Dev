@@ -35,8 +35,6 @@ As a computer science student, I have a strong foundation in programming and a p
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#66](https://github.com/aws-samples/aws-health-aware/issues/66#issuecomment-1719801750) in [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware)<br>
-2. 💬 Commented on [#66](https://github.com/aws-samples/aws-health-aware/issues/66#issuecomment-1719801089) in [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
