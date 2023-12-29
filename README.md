@@ -35,6 +35,7 @@ As a computer science student, I have a strong foundation in programming and a p
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [Saff-Buraq-Dev/gharbidev-solutions](https://github.com/Saff-Buraq-Dev/gharbidev-solutions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
