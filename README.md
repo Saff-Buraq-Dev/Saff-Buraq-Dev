@@ -35,11 +35,11 @@ As a computer science student, I have a strong foundation in programming and a p
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#20](https://github.com/Saff-Buraq-Dev/similisnap/pull/20) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
-2. 💪 Opened PR [#20](https://github.com/Saff-Buraq-Dev/similisnap/pull/20) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
-3. 🎉 Merged PR [#19](https://github.com/Saff-Buraq-Dev/similisnap/pull/19) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
-4. 💪 Opened PR [#19](https://github.com/Saff-Buraq-Dev/similisnap/pull/19) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
-5. 🎉 Merged PR [#18](https://github.com/Saff-Buraq-Dev/similisnap/pull/18) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
+1. 🎉 Merged PR [#25](https://github.com/Saff-Buraq-Dev/similisnap/pull/25) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
+2. 💪 Opened PR [#25](https://github.com/Saff-Buraq-Dev/similisnap/pull/25) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
+3. 🎉 Merged PR [#24](https://github.com/Saff-Buraq-Dev/similisnap/pull/24) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
+4. 💪 Opened PR [#24](https://github.com/Saff-Buraq-Dev/similisnap/pull/24) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
+5. 🎉 Merged PR [#23](https://github.com/Saff-Buraq-Dev/similisnap/pull/23) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
