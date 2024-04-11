@@ -35,8 +35,6 @@ As a computer science student, I have a strong foundation in programming and a p
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#32](https://github.com/Saff-Buraq-Dev/similisnap/pull/32) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
-2. 💪 Opened PR [#32](https://github.com/Saff-Buraq-Dev/similisnap/pull/32) in [Saff-Buraq-Dev/similisnap](https://github.com/Saff-Buraq-Dev/similisnap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
