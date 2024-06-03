@@ -42,8 +42,8 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Saff-Buraq-Dev/github-oidc](https://github.com/Saff-Buraq-Dev/github-oidc)<br>
-2. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-portfolio](https://github.com/Saff-Buraq-Dev/saff-portfolio)<br>
+1. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/github-oidc](https://github.com/Saff-Buraq-Dev/github-oidc)<br>
+2. 📔 Created new repository [Saff-Buraq-Dev/github-oidc](https://github.com/Saff-Buraq-Dev/github-oidc)<br>
 3. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-portfolio](https://github.com/Saff-Buraq-Dev/saff-portfolio)<br>
 4. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-portfolio](https://github.com/Saff-Buraq-Dev/saff-portfolio)<br>
 5. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-portfolio](https://github.com/Saff-Buraq-Dev/saff-portfolio)<br>
