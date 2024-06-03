@@ -1,23 +1,30 @@
 ### Hi there I'm Safouene👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/safouene-gharbi/)
-[![GharbiDev](https://img.shields.io/static/v1?label=GharbiDev&message=UP&color=<COLOR>)](https://gharbidev.com/)
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM1OWpzYmFsbXNuM2p0bmcwYWJ2ZWprOGdhbWI0djB5bDlyNTZ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdiLau77NE9Z8vxGSO/giphy.gif" width="200"/>
+</div>
+
+<div id="tags" align="center">
+    <a href="www.linkedin.com/in/safouene-gharbi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge"></a>
+    <a href="https://blog.gharbidev.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=GharbiDev&message=UP&color=<COLOR>" alt="Status Badge"></a>
+</div>
+
 
 ---
 
-As a computer science student, I have a strong foundation in programming and a passion for staying up-to-date on the latest technologies. My love for Java and SpringBoot is matched only by my eagerness to learn new tools like Docker and build applications using microservices architecture. My dedication to my studies has earned me not one, but three excellence scholarships, and I recently became an AWS Certified Cloud Practitioner. With a big capacity to learn and a drive for excellence, I am always looking for new ways to improve and grow as a developer.
+Aspiring Cloud Developer with a demonstrated history of designing and deploying dynamically scalable, highly available, fault-tolerant, and reliable full-stack applications on AWS. Proficient in Docker containers, DevOps practices, Java, Python, Typescript, Software as a Service (SaaS), Microservices, and CI/CD pipelines.
 
 ---
 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
+<img src="https://zeevector.com/wp-content/uploads/Aws-Logo-PNG-White.png" alt="AWS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="Intellij Logo" width="50" height="50"/>
 </p>
@@ -27,7 +34,7 @@ As a computer science student, I have a strong foundation in programming and a p
 ### My Github Stats 📊
 
 [![](https://raw.githubusercontent.com/Saff-Buraq-Dev/Saff-Buraq-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Saff-Buraq-Dev/Saff-Buraq-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Saff-Buraq-Dev/Saff-Buraq-Dev/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Saff-Buraq-Dev/Saff-Buraq-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Saff-Buraq-Dev/Saff-Buraq-Dev/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Saff-Buraq-Dev/Saff-Buraq-Dev/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
