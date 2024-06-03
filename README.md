@@ -42,7 +42,11 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-
+1. 📔 Created new repository [Saff-Buraq-Dev/github-oidc](https://github.com/Saff-Buraq-Dev/github-oidc)<br>
+2. 📔 Created new repository [Saff-Buraq-Dev/saff-portfolio](https://github.com/Saff-Buraq-Dev/saff-portfolio)<br>
+3. ❗️ Opened issue [#564](https://github.com/terraform-aws-modules/terraform-aws-lambda/issues/564) in [terraform-aws-modules/terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda)<br>
+4. ❗️ Opened issue [#1073](https://github.com/terraform-aws-modules/terraform-aws-vpc/issues/1073) in [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc)<br>
+5. ❗️ Opened issue [#192](https://github.com/terraform-aws-modules/terraform-aws-ecs/issues/192) in [terraform-aws-modules/terraform-aws-ecs](https://github.com/terraform-aws-modules/terraform-aws-ecs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>

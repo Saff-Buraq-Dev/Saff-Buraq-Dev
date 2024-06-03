@@ -1,3 +1,3 @@
 settings:
-  whitelisted_events:
+  disabled_events:
   - push
