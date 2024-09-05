@@ -43,8 +43,6 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Saff-Buraq-Dev/aws-serverless-shopping-cart](https://github.com/Saff-Buraq-Dev/aws-serverless-shopping-cart) from [aws-samples/aws-serverless-shopping-cart](https://github.com/aws-samples/aws-serverless-shopping-cart)<br>
-2. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-portfolio](https://github.com/Saff-Buraq-Dev/saff-portfolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/Saff-Buraq-Dev](https://github.com/Saff-Buraq-Dev/Saff-Buraq-Dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
