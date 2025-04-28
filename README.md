@@ -45,7 +45,6 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 1. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-aws-blog](https://github.com/Saff-Buraq-Dev/saff-aws-blog)<br>
 2. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-aws-blog](https://github.com/Saff-Buraq-Dev/saff-aws-blog)<br>
 3. ⬆️ Pushed 2 commit(s) to [Saff-Buraq-Dev/saff-portfolio](https://github.com/Saff-Buraq-Dev/saff-portfolio)<br>
-4. 📔 Created new repository [Saff-Buraq-Dev/demo-java-fargate](https://github.com/Saff-Buraq-Dev/demo-java-fargate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
