@@ -42,11 +42,11 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
-2. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
-3. 📔 Created new repository [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
-4. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-aws-blog](https://github.com/Saff-Buraq-Dev/saff-aws-blog)<br>
-5. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-aws-blog](https://github.com/Saff-Buraq-Dev/saff-aws-blog)<br>
+1. ⬆️ Pushed 6 commit(s) to [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
+2. 🎉 Merged PR [#1](https://github.com/Saff-Buraq-Dev/hq-memes/pull/1) in [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
+3. 💪 Opened PR [#1](https://github.com/Saff-Buraq-Dev/hq-memes/pull/1) in [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
+4. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
+5. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
