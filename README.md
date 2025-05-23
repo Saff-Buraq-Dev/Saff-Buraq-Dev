@@ -42,8 +42,9 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-aws-blog](https://github.com/Saff-Buraq-Dev/saff-aws-blog)<br>
+1. 📔 Created new repository [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
 2. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-aws-blog](https://github.com/Saff-Buraq-Dev/saff-aws-blog)<br>
+3. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/saff-aws-blog](https://github.com/Saff-Buraq-Dev/saff-aws-blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
