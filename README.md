@@ -42,11 +42,11 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/memesapp](https://github.com/Saff-Buraq-Dev/memesapp)<br>
-2. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/memesapp](https://github.com/Saff-Buraq-Dev/memesapp)<br>
-3. ⬆️ Pushed 6 commit(s) to [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
-4. 🎉 Merged PR [#1](https://github.com/Saff-Buraq-Dev/hq-memes/pull/1) in [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
-5. 💪 Opened PR [#1](https://github.com/Saff-Buraq-Dev/hq-memes/pull/1) in [Saff-Buraq-Dev/hq-memes](https://github.com/Saff-Buraq-Dev/hq-memes)<br>
+1. ⬆️ Pushed 3 commit(s) to [Saff-Buraq-Dev/memesapp](https://github.com/Saff-Buraq-Dev/memesapp)<br>
+2. 🎉 Merged PR [#1](https://github.com/Saff-Buraq-Dev/memesapp/pull/1) in [Saff-Buraq-Dev/memesapp](https://github.com/Saff-Buraq-Dev/memesapp)<br>
+3. 💪 Opened PR [#1](https://github.com/Saff-Buraq-Dev/memesapp/pull/1) in [Saff-Buraq-Dev/memesapp](https://github.com/Saff-Buraq-Dev/memesapp)<br>
+4. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/memesapp](https://github.com/Saff-Buraq-Dev/memesapp)<br>
+5. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/memesapp](https://github.com/Saff-Buraq-Dev/memesapp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
