@@ -42,11 +42,6 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 # :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [Saff-Buraq-Dev/iam-explorer](https://github.com/Saff-Buraq-Dev/iam-explorer)<br>
-2. 🎉 Merged PR [#2](https://github.com/Saff-Buraq-Dev/iam-explorer/pull/2) in [Saff-Buraq-Dev/iam-explorer](https://github.com/Saff-Buraq-Dev/iam-explorer)<br>
-3. 💪 Opened PR [#2](https://github.com/Saff-Buraq-Dev/iam-explorer/pull/2) in [Saff-Buraq-Dev/iam-explorer](https://github.com/Saff-Buraq-Dev/iam-explorer)<br>
-4. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/iam-explorer](https://github.com/Saff-Buraq-Dev/iam-explorer)<br>
-5. ⬆️ Pushed 1 commit(s) to [Saff-Buraq-Dev/iam-explorer](https://github.com/Saff-Buraq-Dev/iam-explorer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br/>
