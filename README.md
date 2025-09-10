@@ -5,7 +5,7 @@
 </div>
 
 <div id="tags" align="center">
-    <a href="www.linkedin.com/in/safouene-gharbi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge"></a>
+    <a href="https://ca.linkedin.com/in/safouene-gharbi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge"></a>
     <a href="https://blog.gharbidev.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=GharbiDev&message=UP&color=GREEN" alt="Status Badge"></a>
 </div>
 
