@@ -19,7 +19,7 @@ Aspiring Cloud Developer with a demonstrated history of designing and deploying 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://zeevector.com/wp-content/uploads/Aws-Logo-PNG-White.png" alt="AWS Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> 
